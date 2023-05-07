@@ -26,6 +26,8 @@ PC13 | led light
 ![avatar](1.jpg)
 ---
 
+![avatar](3.jpg)
+
 参考了以下两篇论文  
 Reference these two paper
 
